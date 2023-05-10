@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* index */
 .main-color
 {
     color: rgb(16, 212, 16);
@@ -209,4 +210,19 @@ header .container-fluid
     -moz-transform: translatex(-50%);
     -ms-transform: translatex(-50%);
     -o-transform: translatex(-50%);
+}
+
+/* Contact */
+.message
+{
+
+}
+.bg-gray
+{
+    background-color: rgb(199, 199, 199);
+    width: 100%;
+}
+.message-form input , textarea
+{
+    color: rgb(151, 150, 150);
 }
